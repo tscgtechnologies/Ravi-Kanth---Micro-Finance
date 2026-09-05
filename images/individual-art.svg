@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 320" width="100%" height="100%" fill="none">
+  <rect width="500" height="320" rx="16" fill="#F8FAFC"/>
+  <circle cx="430" cy="80" r="50" fill="#0284C7" fill-opacity="0.1"/>
+  
+  <!-- Individual Finance Graphic -->
+  <g transform="translate(130, 40)">
+    <rect x="30" y="30" width="180" height="170" rx="16" fill="#FFFFFF" stroke="#BAE6FD" stroke-width="2"/>
+    
+    <!-- Person icon with growth arrow -->
+    <circle cx="120" cy="85" r="24" fill="#0284C7"/>
+    <path d="M80 145C80 120 100 115 120 115C140 115 160 120 160 145" fill="#0284C7"/>
+    
+    <!-- Shield of trust -->
+    <circle cx="160" cy="70" r="16" fill="#10B981"/>
+    <path d="M154 70L158 74L166 66" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Badge -->
+    <rect x="45" y="215" width="150" height="28" rx="14" fill="#0369A1"/>
+    <text x="120" y="233" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle">Personalized Support</text>
+  </g>
+</svg>

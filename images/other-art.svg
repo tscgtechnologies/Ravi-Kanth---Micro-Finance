@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 320" width="100%" height="100%" fill="none">
+  <rect width="500" height="320" rx="16" fill="#F0F9FF"/>
+  <circle cx="80" cy="80" r="50" fill="#0EA5E9" fill-opacity="0.12"/>
+  
+  <!-- Multi-need icons: Education, Health, Home Improvement -->
+  <g transform="translate(110, 45)">
+    <rect x="20" y="30" width="240" height="170" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+    
+    <!-- Icon 1: Education Hat -->
+    <circle cx="65" cy="85" r="22" fill="#E0F2FE"/>
+    <path d="M50 82L65 74L80 82L65 90L50 82Z" fill="#0284C7"/>
+    <path d="M57 86V94C57 97 65 99 65 99C65 99 73 97 73 94V86" stroke="#0284C7" stroke-width="1.5"/>
+
+    <!-- Icon 2: Medical Plus -->
+    <circle cx="140" cy="85" r="22" fill="#FEE2E2"/>
+    <rect x="136" y="74" width="8" height="22" rx="2" fill="#EF4444"/>
+    <rect x="129" y="81" width="22" height="8" rx="2" fill="#EF4444"/>
+
+    <!-- Icon 3: Home Repair Roof -->
+    <circle cx="215" cy="85" r="22" fill="#FEF3C7"/>
+    <path d="M205 92V100H225V92" stroke="#D97706" stroke-width="2"/>
+    <path d="M201 92L215 80L229 92" stroke="#D97706" stroke-width="2" stroke-linecap="round"/>
+
+    <text x="140" y="145" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#0F172A" text-anchor="middle">Family &amp; Life Needs</text>
+    <text x="140" y="165" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Education • Home • Health</text>
+
+    <!-- Badge -->
+    <rect x="65" y="215" width="150" height="28" rx="14" fill="#0284C7"/>
+    <text x="140" y="233" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle">Support for Daily Life</text>
+  </g>
+</svg>
